@@ -1,0 +1,19 @@
+.custom{
+    border:1px solid lightgray;
+    border-radius:4px;
+    padding: 5px;
+    outline: none;
+    cursor: pointer;
+}
+.background-signup{
+    min-height: 120vh;
+    max-height:fit-content;
+    background-color:whitesmoke;
+}
+.custom:focus{
+    box-shadow: 0 0 3px 1px dodgerblue;
+
+}
+.container form input{
+    margin-bottom: 15px;
+}

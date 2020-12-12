@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.display{
+    display: block;
+    width: 30%;
+}
+.none{
+    display: none
+}
+.custom-dropdown:hover div{
+    display: block;
+}
+.dropdown-item:hover{
+
+    color: dodgerblue!important;
+
+}
